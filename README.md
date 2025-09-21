@@ -1,6 +1,6 @@
 # ĦCommunicator
 
-ĦCommunicator is the most feature-rich modular All-in-One Community App for communication, economic trade, telephony & digital payments, that you can use to build free market societies in crisis regions and beyond. The ĦCommunicator is the platform for the new self-sufficient Free World Meshnet Society & Economy. It is built entirely on the Free World Dollar (FWD), the only debt- and inflation-free digital real money system, the world will ever need.
+ĦCommunicator is the world's first & only blackout-resilient radio meshnet ecosystem messenger and most feature-rich modular all-in-one community app for communication, commerce, finance, payments, telephony & more, that you can use to build free market societies in crisis regions and beyond. The ĦCommunicator is the platform for the new self-sufficient Free World Meshnet Society & Economy. It is built entirely on the Free World Dollar (FWD), the only debt- and inflation-free digital real money system, the world will ever need.
 
 <img src="docs/screenshots/screen_01.png" width="200px"> <img src="docs/screenshots/screen_02.png" width="200px"> <img src="docs/screenshots/screen_03.png" width="200px">
 <img src="docs/screenshots/screen_04.png" width="200px"> <img src="docs/screenshots/screen_05.png" width="200px"> <img src="docs/screenshots/screen_06.png" width="200px">
@@ -9,11 +9,11 @@
 
 
 ## Current status
-This is currently a MVP.
+This is currently a minimal viable product (MVP).
 
 All core features are implemented and working.
 
-There will be further improvements and functional enhancements in the future.
+There will be continous improvements and functional enhancements in future updates.
 
 
 ## Apps/Features (Overview)
