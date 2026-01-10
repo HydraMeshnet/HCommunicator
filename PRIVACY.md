@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-Effective Date: 2025.07.14
+Effective Date: 2026.01.01
 
 HydraMeshnet ("we", "us", or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect information obtained through your use of our mobile application, ĦCommunicator ("APPLICATION").
 

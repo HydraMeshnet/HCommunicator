@@ -2,8 +2,11 @@
 
 ## Changelog
 
+#### 0.2.6 (2026-01-10)
+- Bug fixes and UI improvements
+
 #### 0.2.5 (2025-12-10)
-- Bugfix
+- Bug fixes
 
 #### 0.2.4 (2025-12-07)
 - First official public release

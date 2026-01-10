@@ -39,4 +39,4 @@ This Agreement shall be governed by and construed in accordance with the rules o
 10. CONTACT
 If you have any questions about this Agreement, contact: info@hydramesh.net
 
-Last updated: 2025.07.14
+Last updated: 2026.01.01

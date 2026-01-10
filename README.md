@@ -129,7 +129,7 @@ For your Android devices, download the APK and allow the installation.
 
 ## Copyright
 
-Copyright (c) 2025 HydraMeshnet / hydramesh.net
+Copyright (c) 2026 HydraMeshnet / hydramesh.net
 All Rights Reserved.
 
 This software is licensed under the "HydraMeshnet License", available at:
