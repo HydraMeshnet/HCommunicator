@@ -17,7 +17,7 @@ There will be continous improvements and functional enhancements in future updat
 
 
 ## Getting Started
-Download the APK file from the current [Releases](./releases) and install it.
+Download the APK file from the current [Releases](https://github.com/HydraMeshnet/HCommunicator/releases) and install it.
 
 
 ## Apps/Features (Overview)
