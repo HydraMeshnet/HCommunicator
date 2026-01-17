@@ -2,8 +2,14 @@
 
 ## Changelog
 
+#### 0.2.7 (2026-01-17)
+- UI bug fixes on Android 16
+- Dependencies updated
+- Readme updated
+
 #### 0.2.6 (2026-01-10)
-- Bug fixes and UI improvements
+- Bug fixes
+- UI improvements
 
 #### 0.2.5 (2025-12-10)
 - Bug fixes
