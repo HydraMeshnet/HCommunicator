@@ -49,10 +49,10 @@ Download the APK file from the current [Releases](https://github.com/HydraMeshne
 
 
 ## Connection types
-- **ĦVPN:** Use any internet connection such as WiFi, 4G/5G. Stay private and anonymous by using ĦVPN.
+- **ĦVPN:** Use any internet connection such as WiFi, 4G/5G. Stay private and anonymous by using integrated ĦVPN (Yggdrasil).
 - **WiFi/WLAN:** Use any WiFi network for direct communication between the devices. For example, a public hotspot, your home network, or a smartphone hotspot.
 - **Bluetooth:** Use a direct connection between the smartphones. They must be paired first.
-- **Bluetooth LE:** Use a direct connection between the smartphones. Automatic connection and building of the mesh. (IN DEVELOPMENT)
+- **Bluetooth LE:** Use a direct connection between the smartphones. Automatic connection and building of the mesh.
 - **ĦConnector LoRaPay:** Affordable entry-level radio module for middle range with very low data rates. Only usable for payments and short emergency messages. Recommended for user access or one hop to bridge a gap to users.
 - **ĦConnector Maxi:** High-end radio module for long range with high data rates. Recommended for buidling the "core/backbone" mesh network.
 - **Any other interface Reticulum supports:** Such as TCP Client/Server, UDP Client/Server, Radio modem, Serial, I2P, ...
@@ -121,7 +121,7 @@ The following list contains all features that can be individually activated/deac
 - **Share:** The app download link and your own contact data as qr code and link for easy sharing. The QR code can be scanned with the integrated scanner or the camera app of your device.
 - **Shops/Marketplaces:** Marketplace for free exchange of goods within the network. An interactive resilient trading platform.
 - **Status:** Show general status information of the app on the settings page. Such as software version, account/profile status, device data, software components, performance, memory information.
-- **Statistic:** Statistics on all received and send elements and data traffic. (Function not yet implemented.)
+- **Statistic:** Statistics on all received and send elements and data traffic.
 - **Support chat:** Support functionality integrated in the app for a chat with a support agent.
 - **Tasks:** Managing tasks, todo lists, requests, service tickets and other organizational topics in cooperation with other users. (Function not yet implemented.)
 - **Telemetry:** Securely share telemetry, such as location and sensor data, with people, custom programs, machines or other systems.

@@ -2,6 +2,11 @@
 
 ## Changelog
 
+#### 0.2.8 (2026-02-08)
+- UI bug fixes
+- Added Yggdrasil interface
+- Added BLE interface
+
 #### 0.2.7 (2026-01-17)
 - UI bug fixes on Android 16
 - Dependencies updated
